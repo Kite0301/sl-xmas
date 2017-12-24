@@ -1,3 +1,5 @@
+# 勢いで書いたので読みづらくて大変申し訳無い
+# AAをtopとbottomで別けてることに意味はありません、、、
 require './picture'
 
 tops = $tops
